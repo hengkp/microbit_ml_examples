@@ -7,7 +7,7 @@ app = Flask(__name__)
 # load the trained TensorFlow model
 model = tf.keras.models.load_model('soil_watering_model.h5')
 
-@app.route('/predict', methods=['POST'])
+@app.route('/', methods=['POST'])
 def predict():
     # parse the input data from the JSON request
     input_data = request.get_json()
