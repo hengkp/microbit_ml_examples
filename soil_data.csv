@@ -1,4 +1,4 @@
-temperature,humidity,soil_moisture,needs_watering
+temperature,humidity,moisture,needs_watering
 22.5,70,40,0
 24.2,60,25,1
 20.1,80,65,0
