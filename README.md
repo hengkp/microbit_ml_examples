@@ -4,6 +4,7 @@ This repository contains following examples:
 1. soil watering prediction
 2. microgreens growth prediction
 3. plant disease prediction
+4. temperature feeling prediction
 
 Each example run by Google Colab Notebook.
 
