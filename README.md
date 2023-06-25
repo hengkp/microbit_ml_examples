@@ -1,7 +1,7 @@
-# Machine Learning Examples With Micro:Bit
+# AIThaiGen Machine Learning Examples With Micro:Bit
 
 This repository contains the following examples:
-1. bean sprout water prediction
+1. bean sprouts water prediction
 2. microgreens growth prediction
 3. overheated prediction
 4. plant disease prediction
@@ -11,4 +11,4 @@ This repository contains the following examples:
 
 Each example is run by Google Colab Notebook.
 
-To learn the code, please go to https://colab.research.google.com/
+To learn the code, please go to [Google Colab](https://colab.research.google.com/) and import the file.
